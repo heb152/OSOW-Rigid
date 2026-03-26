@@ -1,7 +1,7 @@
 streamlit>=1.32.0
-numpy
+numpy==1.26.4
 pandas
 plotly
-tensorflow==2.15.1
+tensorflow-cpu==2.15.1
 scikit-learn
 loguru
